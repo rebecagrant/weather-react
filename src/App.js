@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="row justify-content-center mt-5">
-        <h1 className="centered">Weather Forecast</h1>
+        <h1>Weather Forecast</h1>
       </div>
       <div className="weather-app rounded">
         <Search />
