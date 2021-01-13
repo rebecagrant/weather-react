@@ -17,7 +17,7 @@ export default function App() {
       </div>
       <footer className="row justify-content-center">
         <div>
-          <a href="https://github.com/rebecagrant/" target="_blank" rel="noopener noreferrer">Open-source code</a> by
+          <a href="https://github.com/rebecagrant/weather-react" target="_blank" rel="noopener noreferrer">Open-source code</a> by
           <a href="https://github.com/rebecagrant/" target="_blank" rel="noopener noreferrer"> Rebeca Grant</a>
         </div>
       </footer>
