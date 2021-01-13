@@ -7,7 +7,7 @@ export default function Temperature() {
       <div className="col-sm-4">
         <div className="links">
           <img
-            src="http://openweathermap.org/img/wn/04n@2x.png"
+            src="https://openweathermap.org/img/wn/04n@2x.png"
             className="main-icon"
             alt=""
           />
