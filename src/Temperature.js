@@ -16,11 +16,11 @@ export default function Temperature() {
               <h3 className="degrees">10</h3>
             </div>
             <div className="float-left">
-              <a href="" className="active">
+              <a href="/" className="active">
                 °C
               </a>
               <span>&nbsp;|&nbsp;</span>
-              <a href="">°F</a>
+              <a href="/">°F</a>
             </div>
           </div>
         </div>
