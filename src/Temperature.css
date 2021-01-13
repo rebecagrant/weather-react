@@ -1,0 +1,29 @@
+.main-icon {
+  float: left;
+  margin-right: 30px;
+}
+
+.float-left {
+  float: left;
+}
+
+.degrees {
+  font-size: 70px !important;
+  font-weight: 500;
+}
+
+.links a {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  vertical-align: top;
+}
+
+.links a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.active {
+  color: gray !important;
+}

@@ -1,0 +1,9 @@
+h1.city {
+  font-size: 30px;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+h1 i {
+  padding-right: 5px;
+}
