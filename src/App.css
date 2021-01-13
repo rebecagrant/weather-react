@@ -6,3 +6,42 @@
   -moz-box-shadow: 6px 6px 21px -6px rgba(0, 0, 0, 0.27);
   box-shadow: 6px 6px 21px -6px rgba(0, 0, 0, 0.27);
 }
+
+.col {
+  margin: 0 !important;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px !important;
+}
+
+h2:first-letter {
+  text-transform: capitalize;
+}
+
+#temp-min {
+  padding-left: 15px;
+}
+
+footer {
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+footer a {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: black;
+}
