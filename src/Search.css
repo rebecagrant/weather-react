@@ -3,6 +3,14 @@
   padding-right: 0;
 }
 
+.col {
+  margin: 0 !important;
+}
+
+#temp-min {
+  padding-left: 15px;
+}
+
 form {
   padding: 0 !important;
 }

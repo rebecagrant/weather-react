@@ -16,8 +16,6 @@ export default function Search() {
         <button type="submit" className="btn btn-dark button1">
           <i className="fas fa-search" />
         </button>
-      </form>
-      <form className="col-auto">
         <button type="button" className="btn btn-dark">
           Current Location
         </button>

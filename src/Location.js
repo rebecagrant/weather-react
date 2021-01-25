@@ -5,12 +5,9 @@ export default function Location() {
   return (
     <div className="row align-self-center">
       <div className="col ml-3">
-        <h1 className="city">
-          <i className="far fa-compass"></i>
-          <span>London</span>
-        </h1>
-        <h2>Last updated on Saturday 18:18</h2>
-        <h2>Broken clouds</h2>
+        <h1 className="city">London</h1>
+        <h3>Last updated on Saturday 18:18</h3>
+        <h3>Broken clouds</h3>
       </div>
     </div>
   );

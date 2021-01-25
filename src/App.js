@@ -1,24 +1,13 @@
 import React from "react";
-
+import Weather from "./Weather";
 import './App.css';
-
-import Search from "./Search";
-import Location from "./Location";
-import Temperature from "./Temperature";
-
-
 
 export default function App() {
   return (
     <div className="container">
-
-      <div className="row justify-content-center mt-5">
-        <h1>Weather Forecast</h1>
-      </div>
+      <h1 className="row justify-content-center mt-5">Weather Forecast</h1>
       <div className="weather-app rounded">
-        <Search />
-        <Location />
-        <Temperature />
+        <Weather />
       </div>
       <footer className="row justify-content-center">
         <div>
